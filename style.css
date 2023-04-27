@@ -99,7 +99,7 @@ body{
 
 /* Home Page*/
 #hero{
-    background-image: url("/hero.jfif");
+    background-image: url("hero.jfif");
     height: 83vh;
     width: 100%;
     background-size:cover;
